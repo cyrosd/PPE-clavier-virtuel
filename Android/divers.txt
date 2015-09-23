@@ -1,1 +1,2 @@
-développer pour honneycomb (3.0)
+développer pour 4.0 ou 4.1
+
